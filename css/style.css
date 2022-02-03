@@ -7,7 +7,7 @@
   width: 355px;
   gap: 10px;
 }
-.nft {
+.nft, .top-img {
   border-radius: 8px;
 }
 .prof {
